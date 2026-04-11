@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>4</versionCode>
-  <versionName>1.0.3</versionName>
+  <versionCode>5</versionCode>
+  <versionName>1.0.4</versionName>
   <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-latest.apk</apkUrl>
-  <notes>Auto-published from debug build at 2026-04-11 17:02:15 UTC</notes>
+  <notes>Auto-published from debug build at 2026-04-11 17:03:09 UTC</notes>
 </update>
