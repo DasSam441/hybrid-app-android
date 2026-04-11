@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1775945604</versionCode>
-  <versionName>1.0.20260411.221324</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260411.221324-1775945604.apk</apkUrl>
-  <notes>Neu: Add permission retry dialog and settings shortcut | + Improve update notes text and restore byte14 pulse trigger | + Add lap sector timing table and sector count setting | + Add compact update chip with update center dialog | Build: debug @ 2026-04-11 22:13:31 UTC</notes>
+  <versionCode>1775945623</versionCode>
+  <versionName>1.0.20260411.221343</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260411.221343-1775945623.apk</apkUrl>
+  <notes>Neu: Add permission retry dialog and settings shortcut | + Improve update notes text and restore byte14 pulse trigger | + Add lap sector timing table and sector count setting | + Add compact update chip with update center dialog | Build: debug @ 2026-04-11 22:13:46 UTC</notes>
 </update>
