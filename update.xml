@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1775935589</versionCode>
-  <versionName>1.0.20260411.192629</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260411.192629-1775935589.apk</apkUrl>
-  <notes>Use source commit text in update feed notes (src 7524407) | debug build at 2026-04-11 19:26:31 UTC</notes>
+  <versionCode>1775937055</versionCode>
+  <versionName>1.0.20260411.195055</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260411.195055-1775937055.apk</apkUrl>
+  <notes>Add compact update chip with update center dialog (src b79f2be) | debug build at 2026-04-11 19:50:58 UTC</notes>
 </update>
