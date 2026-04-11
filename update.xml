@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1775934269</versionCode>
-  <versionName>1.0.20260411.190429</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260411.190429-1775934269.apk</apkUrl>
-  <notes>Auto-published from debug build at 2026-04-11 19:04:32 UTC</notes>
+  <versionCode>1775934668</versionCode>
+  <versionName>1.0.20260411.191108</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260411.191108-1775934668.apk</apkUrl>
+  <notes>Update lap controls and publish latest debug build (src 39e19c5) | debug build at 2026-04-11 19:11:11 UTC</notes>
 </update>
