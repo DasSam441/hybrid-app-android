@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>7</versionCode>
-  <versionName>1.0.6</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-latest.apk</apkUrl>
-  <notes>Auto-published from debug build at 2026-04-11 17:17:09 UTC</notes>
+  <versionCode>8</versionCode>
+  <versionName>1.0.7</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.7-8.apk</apkUrl>
+  <notes>Auto-published from debug build at 2026-04-11 17:18:55 UTC</notes>
 </update>
