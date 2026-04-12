@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1775997956</versionCode>
-  <versionName>1.0.20260412.124556</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260412.124556-1775997956.apk</apkUrl>
-  <notes>Neu: Add mappable horn with phone MP3 horn sound and blink | + Add permission retry dialog and settings shortcut | + Improve update notes text and restore byte14 pulse trigger | + Add lap sector timing table and sector count setting | Build: debug @ 2026-04-12 12:46:00 UTC</notes>
+  <versionCode>1775998896</versionCode>
+  <versionName>1.0.20260412.130136</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260412.130136-1775998896.apk</apkUrl>
+  <notes>Neu: Add mappable horn with phone MP3 horn sound and blink | + Add permission retry dialog and settings shortcut | + Improve update notes text and restore byte14 pulse trigger | + Add lap sector timing table and sector count setting | Build: debug @ 2026-04-12 13:01:40 UTC</notes>
 </update>
