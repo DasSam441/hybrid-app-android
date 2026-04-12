@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1776022642</versionCode>
-  <versionName>1.0.20260412.193722</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260412.193722-1776022642.apk</apkUrl>
-  <notes>Neu: Add 3-axis gyro telemetry to dashboard speedometer | + Add standalone dashboard cockpit and modularize main activity | + Add mappable horn with phone MP3 horn sound and blink | + Add permission retry dialog and settings shortcut | Build: debug @ 2026-04-12 19:37:26 UTC</notes>
+  <versionCode>1776023123</versionCode>
+  <versionName>1.0.20260412.194523</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260412.194523-1776023123.apk</apkUrl>
+  <notes>Neu: Add 3-axis gyro telemetry to dashboard speedometer | + Add standalone dashboard cockpit and modularize main activity | + Add mappable horn with phone MP3 horn sound and blink | + Add permission retry dialog and settings shortcut | Build: debug @ 2026-04-12 19:45:28 UTC</notes>
 </update>
