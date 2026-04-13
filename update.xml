@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1776113241</versionCode>
-  <versionName>1.0.20260413.204721</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260413.204721-1776113241.apk</apkUrl>
-  <notes>Neu: Prefer trigger axes over trigger key fallback | + Document mandatory 3-repo sync policy | + Add detailed drive physics and CMD/EVT byte documentation | + Improve telemetry controls, setup UX, and dashboard responsiveness | Build: debug @ 2026-04-13 20:47:24 UTC</notes>
+  <versionCode>1776113771</versionCode>
+  <versionName>1.0.20260413.205611</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260413.205611-1776113771.apk</apkUrl>
+  <notes>Neu: Prefer trigger axes over trigger key fallback | + Document mandatory 3-repo sync policy | + Add detailed drive physics and CMD/EVT byte documentation | + Improve telemetry controls, setup UX, and dashboard responsiveness | Build: debug @ 2026-04-13 20:56:16 UTC</notes>
 </update>
