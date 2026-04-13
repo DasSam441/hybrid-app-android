@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1776040267</versionCode>
-  <versionName>1.0.20260413.003107</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260413.003107-1776040267.apk</apkUrl>
-  <notes>Neu: Improve telemetry control and smooth dashboard speedometer | + Add telemetry background recorder, DFU status/log panel, and cockpit/log control updates | + Add 3-axis gyro telemetry to dashboard speedometer | + Add standalone dashboard cockpit and modularize main activity | Build: debug @ 2026-04-13 00:31:14 UTC</notes>
+  <versionCode>1776040470</versionCode>
+  <versionName>1.0.20260413.003430</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260413.003430-1776040470.apk</apkUrl>
+  <notes>Neu: Improve telemetry control and smooth dashboard speedometer | + Add telemetry background recorder, DFU status/log panel, and cockpit/log control updates | + Add 3-axis gyro telemetry to dashboard speedometer | + Add standalone dashboard cockpit and modularize main activity | Build: debug @ 2026-04-13 00:34:33 UTC</notes>
 </update>
