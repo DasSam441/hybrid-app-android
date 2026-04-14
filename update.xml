@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1776190103</versionCode>
-  <versionName>1.0.20260414.180823</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260414.180823-1776190103.apk</apkUrl>
-  <notes>Neu: Fix raw frame logging: full CMD/EVT lines with sequence and ms timestamps | + Prefer trigger axes over trigger key fallback | + Document mandatory 3-repo sync policy | + Add detailed drive physics and CMD/EVT byte documentation | Build: debug @ 2026-04-14 18:08:29 UTC</notes>
+  <versionCode>1776190590</versionCode>
+  <versionName>1.0.20260414.181630</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260414.181630-1776190590.apk</apkUrl>
+  <notes>Neu: Fix raw frame logging: full CMD/EVT lines with sequence and ms timestamps | + Prefer trigger axes over trigger key fallback | + Document mandatory 3-repo sync policy | + Add detailed drive physics and CMD/EVT byte documentation | Build: debug @ 2026-04-14 18:16:35 UTC</notes>
 </update>
