@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1776197571</versionCode>
-  <versionName>1.0.20260414.201251</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260414.201251-1776197571.apk</apkUrl>
-  <notes>Neu: Add race control, on-track dyno tuning, and UI updates | + Fix raw frame logging: full CMD/EVT lines with sequence and ms timestamps | + Prefer trigger axes over trigger key fallback | + Document mandatory 3-repo sync policy | Build: debug @ 2026-04-14 20:13:04 UTC</notes>
+  <versionCode>1776198441</versionCode>
+  <versionName>1.0.20260414.202721</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260414.202721-1776198441.apk</apkUrl>
+  <notes>Neu: Add gyro-based steering assist tuning controls and runtime wiring | + Add race control, on-track dyno tuning, and UI updates | + Fix raw frame logging: full CMD/EVT lines with sequence and ms timestamps | + Prefer trigger axes over trigger key fallback | Build: debug @ 2026-04-14 20:27:25 UTC</notes>
 </update>
