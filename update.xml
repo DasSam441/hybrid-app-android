@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1776239194</versionCode>
-  <versionName>1.0.20260415.074634</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260415.074634-1776239194.apk</apkUrl>
-  <notes>Neu: Drive gyro hard limits for accel/brake and setup sync | + Add cockpit intervention indicators and top back button | + Fix brake behavior and harden update/install flow | + Add gyro-based steering assist tuning controls and runtime wiring | Build: debug @ 2026-04-15 07:46:45 UTC</notes>
+  <versionCode>1776240263</versionCode>
+  <versionName>1.0.20260415.080423</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260415.080423-1776240263.apk</apkUrl>
+  <notes>Neu: Drive gyro hard limits for accel/brake and setup sync | + Add cockpit intervention indicators and top back button | + Fix brake behavior and harden update/install flow | + Add gyro-based steering assist tuning controls and runtime wiring | Build: debug @ 2026-04-15 08:04:36 UTC</notes>
 </update>
