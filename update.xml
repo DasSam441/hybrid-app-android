@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1776274682</versionCode>
-  <versionName>1.0.20260415.173802</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260415.173802-1776274682.apk</apkUrl>
-  <notes>Neu: Vehicle search online naming + backup name fallback | + Stabilize gyro live handling and sync latest app updates | + Drive gyro hard limits for accel/brake and setup sync | + Add cockpit intervention indicators and top back button | Build: debug @ 2026-04-15 17:38:03 UTC</notes>
+  <versionCode>1776274704</versionCode>
+  <versionName>1.0.20260415.173824</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260415.173824-1776274704.apk</apkUrl>
+  <notes>Neu: Vehicle search online naming + backup name fallback | + Stabilize gyro live handling and sync latest app updates | + Drive gyro hard limits for accel/brake and setup sync | + Add cockpit intervention indicators and top back button | Build: debug @ 2026-04-15 17:38:46 UTC</notes>
 </update>
