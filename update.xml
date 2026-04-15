@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1776290369</versionCode>
-  <versionName>1.0.20260415.215929</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260415.215929-1776290369.apk</apkUrl>
-  <notes>Neu: Add cockpit intervention indicators and top back button | + Fix brake behavior and harden update/install flow | + Add gyro-based steering assist tuning controls and runtime wiring | + Add race control, on-track dyno tuning, and UI updates | Build: debug @ 2026-04-15 21:59:33 UTC</notes>
+  <versionCode>1776292150</versionCode>
+  <versionName>1.0.20260415.222910</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260415.222910-1776292150.apk</apkUrl>
+  <notes>Neu: Add cockpit intervention indicators and top back button | + Fix brake behavior and harden update/install flow | + Add gyro-based steering assist tuning controls and runtime wiring | + Add race control, on-track dyno tuning, and UI updates | Build: debug @ 2026-04-15 22:29:21 UTC</notes>
 </update>
