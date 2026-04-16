@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1776362471</versionCode>
-  <versionName>1.0.20260416.180111</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260416.180111-1776362471.apk</apkUrl>
-  <notes>Neu: Restore gyro runtime behavior and update current app state | + Update bundled debug APK | + Move gyro setup controls into Fahrdynamik and sync latest runtime updates | + Setup header/value layout, info-only descriptions, cockpit lost layout fixes | Build: debug @ 2026-04-16 18:01:16 UTC</notes>
+  <versionCode>1776362705</versionCode>
+  <versionName>1.0.20260416.180505</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260416.180505-1776362705.apk</apkUrl>
+  <notes>Neu: Restore gyro runtime behavior and update current app state | + Update bundled debug APK | + Move gyro setup controls into Fahrdynamik and sync latest runtime updates | + Setup header/value layout, info-only descriptions, cockpit lost layout fixes | Build: debug @ 2026-04-16 18:05:09 UTC</notes>
 </update>
