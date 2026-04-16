@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1776370556</versionCode>
-  <versionName>1.0.20260416.201556</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260416.201556-1776370556.apk</apkUrl>
-  <notes>Neu: Sync app state: gyro/raw control and setup adjustments | + Restore gyro runtime behavior and update current app state | + Update bundled debug APK | + Move gyro setup controls into Fahrdynamik and sync latest runtime updates | Build: debug @ 2026-04-16 20:16:01 UTC</notes>
+  <versionCode>1776370648</versionCode>
+  <versionName>1.0.20260416.201728</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260416.201728-1776370648.apk</apkUrl>
+  <notes>Neu: Sync app state: gyro/raw control and setup adjustments | + Restore gyro runtime behavior and update current app state | + Update bundled debug APK | + Move gyro setup controls into Fahrdynamik and sync latest runtime updates | Build: debug @ 2026-04-16 20:17:34 UTC</notes>
 </update>
