@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1776331701</versionCode>
-  <versionName>1.0.20260416.092821</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260416.092821-1776331701.apk</apkUrl>
-  <notes>Neu: Setup header/value layout, info-only descriptions, cockpit lost layout fixes | + Add cockpit intervention indicators and top back button | + Fix brake behavior and harden update/install flow | + Add gyro-based steering assist tuning controls and runtime wiring | Build: debug @ 2026-04-16 09:28:31 UTC</notes>
+  <versionCode>1776332369</versionCode>
+  <versionName>1.0.20260416.093929</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260416.093929-1776332369.apk</apkUrl>
+  <notes>Neu: Move gyro setup controls into Fahrdynamik and sync latest runtime updates | + Setup header/value layout, info-only descriptions, cockpit lost layout fixes | + Add cockpit intervention indicators and top back button | + Fix brake behavior and harden update/install flow | Build: debug @ 2026-04-16 09:39:32 UTC</notes>
 </update>
