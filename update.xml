@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1776410616</versionCode>
-  <versionName>1.0.20260417.072336</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260417.072336-1776410616.apk</apkUrl>
-  <notes>Neu: Apply setup toggle reliability fixes and profile sync cleanup | + Remove gyro-only acceleration fallback override | + Update setup toggles and latest app changes | + Sync app state: gyro/raw control and setup adjustments | Build: debug @ 2026-04-17 07:23:44 UTC</notes>
+  <versionCode>1776411551</versionCode>
+  <versionName>1.0.20260417.073911</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260417.073911-1776411551.apk</apkUrl>
+  <notes>Neu: batch force-sync 17.04.2026  9:26:21,13 | + Apply setup toggle reliability fixes and profile sync cleanup | + Remove gyro-only acceleration fallback override | + Update setup toggles and latest app changes | Build: debug @ 2026-04-17 07:39:16 UTC</notes>
 </update>
