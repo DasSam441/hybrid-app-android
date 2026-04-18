@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1776519884</versionCode>
-  <versionName>1.0.20260418.134444</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260418.134444-1776519884.apk</apkUrl>
-  <notes>Neu: batch force-sync 18.04.2026 14:20:53,07 | + batch force-sync 18.04.2026 14:01:58,54 | + batch force-sync 18.04.2026 13:50:06,20 | + batch force-sync 17.04.2026 21:00:25,73 | Build: debug @ 2026-04-18 13:44:49 UTC</notes>
+  <versionCode>1776523157</versionCode>
+  <versionName>1.0.20260418.143917</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260418.143917-1776523157.apk</apkUrl>
+  <notes>Neu: batch force-sync 18.04.2026 15:45:58,02 | + batch force-sync 18.04.2026 14:20:53,07 | + batch force-sync 18.04.2026 14:01:58,54 | + batch force-sync 18.04.2026 13:50:06,20 | Build: debug @ 2026-04-18 14:39:22 UTC</notes>
 </update>
