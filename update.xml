@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1777104978</versionCode>
-  <versionName>1.0.20260425.081618</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260425.081618-1777104978.apk</apkUrl>
-  <notes>Neu: batch force-sync 22.04.2026 15:40:59,56 | + batch force-sync 22.04.2026 15:39:55,71 | + Split dashboard and setup logic into focused Kotlin modules | + batch force-sync 19.04.2026 15:33:49,49 | Build: debug @ 2026-04-25 08:16:22 UTC</notes>
+  <versionCode>1777105776</versionCode>
+  <versionName>1.0.20260425.082936</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260425.082936-1777105776.apk</apkUrl>
+  <notes>Neu: batch force-sync 22.04.2026 15:40:59,56 | + batch force-sync 22.04.2026 15:39:55,71 | + Split dashboard and setup logic into focused Kotlin modules | + batch force-sync 19.04.2026 15:33:49,49 | Build: debug @ 2026-04-25 08:29:40 UTC</notes>
 </update>
