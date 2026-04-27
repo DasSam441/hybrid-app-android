@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1777307044</versionCode>
-  <versionName>1.0.20260427.162404</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260427.162404-1777307044.apk</apkUrl>
-  <notes>Neu: Enable axis mappings for reverse and lights | + batch force-sync 26.04.2026 15:56:44,29 | + batch force-sync 26.04.2026 15:34:26,27 | + batch force-sync 25.04.2026 10:29:48,52 | Build: debug @ 2026-04-27 16:24:07 UTC</notes>
+  <versionCode>1777308015</versionCode>
+  <versionName>1.0.20260427.164015</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260427.164015-1777308015.apk</apkUrl>
+  <notes>Neu: batch force-sync 27.04.2026 18:24:16,33 | + Enable axis mappings for reverse and lights | + batch force-sync 26.04.2026 15:56:44,29 | + batch force-sync 26.04.2026 15:34:26,27 | Build: debug @ 2026-04-27 16:40:19 UTC</notes>
 </update>
