@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1777909955</versionCode>
-  <versionName>1.0.20260504.155235</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260504.155235-1777909955.apk</apkUrl>
-  <notes>Neu: Add repo-hosted Android signing keystore and Gradle signing config | + batch force-sync 27.04.2026 18:48:06,29 | + batch force-sync 27.04.2026 18:24:16,33 | + Enable axis mappings for reverse and lights | Build: debug @ 2026-05-04 15:52:39 UTC</notes>
+  <versionCode>1777910170</versionCode>
+  <versionName>1.0.20260504.155610</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260504.155610-1777910170.apk</apkUrl>
+  <notes>Neu: Add repo-hosted Android signing keystore and Gradle signing config | + batch force-sync 27.04.2026 18:48:06,29 | + batch force-sync 27.04.2026 18:24:16,33 | + Enable axis mappings for reverse and lights | Build: debug @ 2026-05-04 15:56:13 UTC</notes>
 </update>
