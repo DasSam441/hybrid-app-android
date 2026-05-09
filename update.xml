@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>1778352532</versionCode>
-  <versionName>1.0.20260509.184852</versionName>
-  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260509.184852-1778352532.apk</apkUrl>
-  <notes>Neu: Switch signing to existing Android debug keystore fingerprint | + Add repo-hosted Android signing keystore and Gradle signing config | + batch force-sync 27.04.2026 18:48:06,29 | + batch force-sync 27.04.2026 18:24:16,33 | Build: debug @ 2026-05-09 18:48:53 UTC</notes>
+  <versionCode>1778352558</versionCode>
+  <versionName>1.0.20260509.184918</versionName>
+  <apkUrl>https://raw.githubusercontent.com/DasSam441/hybrid-app-android/main/app-1.0.20260509.184918-1778352558.apk</apkUrl>
+  <notes>Neu: Switch signing to existing Android debug keystore fingerprint | + Add repo-hosted Android signing keystore and Gradle signing config | + batch force-sync 27.04.2026 18:48:06,29 | + batch force-sync 27.04.2026 18:24:16,33 | Build: debug @ 2026-05-09 18:49:24 UTC</notes>
 </update>
